@@ -1,6 +1,6 @@
 # Project setup
 
-##Front end
+## Front end
 
 ### Install dependencies
 ``npm i``
